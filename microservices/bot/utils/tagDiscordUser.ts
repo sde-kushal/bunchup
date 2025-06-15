@@ -1,0 +1,1 @@
+export const tagDiscordUser = (userId: string) => `<@${userId}>`;

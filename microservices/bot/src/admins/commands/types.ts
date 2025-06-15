@@ -1,0 +1,1 @@
+export type ForumChannelGroupCategory = { name: string, id: string };

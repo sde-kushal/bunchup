@@ -1,4 +1,7 @@
-microservices/bot
+# SENSITIVE DATA ---------
+microservices/bot/constants/redis.ts
+microservices/bot/constants/media.ts
+microservices/bot/constants/limits.ts
 
 # GENERIC -----------
 dist
